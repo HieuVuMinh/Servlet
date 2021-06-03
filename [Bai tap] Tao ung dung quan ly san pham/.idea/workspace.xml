@@ -5,26 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51403589-f2ea-4bd6-ac93-268355b6d1fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries-with-intellij-classes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/controller/ProductServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/IProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/product/create.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/product/delete.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/product/edit.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/product/list.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/product/view.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[Thuc hanh] Ung dung quan ly khach hang/src/main/webapp/customer/view.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../[Thuc hanh] Ung dung quan ly khach hang/src/main/webapp/customer/view.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai tap] Cap nhat ung dung quan ly User/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai tap] Cap nhat ung dung quan ly User/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai tap] Cap nhat ung dung quan ly User/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai tap] Cap nhat ung dung quan ly User/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai tap] Cap nhat ung dung quan ly User/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai tap] Cap nhat ung dung quan ly User/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai tap] Cap nhat ung dung quan ly User/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai tap] Cap nhat ung dung quan ly User/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai tap] Cap nhat ung dung quan ly User/src/main/java/controller/ProductServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai tap] Cap nhat ung dung quan ly User/src/main/java/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai tap] Cap nhat ung dung quan ly User/src/main/java/service/IProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai tap] Cap nhat ung dung quan ly User/src/main/java/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai tap] Cap nhat ung dung quan ly User/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai tap] Cap nhat ung dung quan ly User/src/main/webapp/product/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai tap] Cap nhat ung dung quan ly User/src/main/webapp/product/delete.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai tap] Cap nhat ung dung quan ly User/src/main/webapp/product/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai tap] Cap nhat ung dung quan ly User/src/main/webapp/product/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bai tap] Cap nhat ung dung quan ly User/src/main/webapp/product/view.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Quan la User su dung JSP-Servlet-JDBC-MySQL/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Quan la User su dung JSP-Servlet-JDBC-MySQL/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Quan la User su dung JSP-Servlet-JDBC-MySQL/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Quan la User su dung JSP-Servlet-JDBC-MySQL/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Quan la User su dung JSP-Servlet-JDBC-MySQL/.idea/libraries-with-intellij-classes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Quan la User su dung JSP-Servlet-JDBC-MySQL/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Quan la User su dung JSP-Servlet-JDBC-MySQL/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Quan la User su dung JSP-Servlet-JDBC-MySQL/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Quan la User su dung JSP-Servlet-JDBC-MySQL/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Quan la User su dung JSP-Servlet-JDBC-MySQL/src/main/java/controller/UserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Quan la User su dung JSP-Servlet-JDBC-MySQL/src/main/java/dao/IUserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Quan la User su dung JSP-Servlet-JDBC-MySQL/src/main/java/dao/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Quan la User su dung JSP-Servlet-JDBC-MySQL/src/main/java/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Quan la User su dung JSP-Servlet-JDBC-MySQL/src/main/webapp/user/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Quan la User su dung JSP-Servlet-JDBC-MySQL/src/main/webapp/user/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thuc hanh] Quan la User su dung JSP-Servlet-JDBC-MySQL/src/main/webapp/user/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,17 +105,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Tomcat 9.0.46" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.46" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
@@ -199,7 +203,9 @@
       <updated>1622468192297</updated>
       <workItem from="1622468194338" duration="8330000" />
       <workItem from="1622508858474" duration="10940000" />
-      <workItem from="1622533603319" duration="6631000" />
+      <workItem from="1622533603319" duration="7475000" />
+      <workItem from="1622555922538" duration="41000" />
+      <workItem from="1622561011811" duration="174000" />
     </task>
     <servers />
   </component>
